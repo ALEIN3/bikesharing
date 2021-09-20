@@ -3,9 +3,7 @@
 ## Project Overview
 This project analyzes New York Citi Bike data, using data visualization tools to explore the customers' habits and study if that type of business could work in other cities.
 
-## Resources
-•	Data Source:  Click here to view the [Data]()
-•	Software: Python, Anaconda Navigator, Jupyter Notebook, Tableau Public 
+Software: Python, Anaconda Navigator, Jupyter Notebook, Tableau Public 
 
 ## Results
 
