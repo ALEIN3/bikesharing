@@ -9,7 +9,7 @@ Software: Python, Anaconda Navigator, Jupyter Notebook, Tableau Public
 
 We studied in this project New York Citi Bike data for August 2019, and here are some findings:
 
-[link to the story on Tableau public](https://s3.amazonaws.com/tripdata/201809-citibike-tripdata.csv.zip)
+[link to the story on Tableau public](https://public.tableau.com/app/profile/grorge.alein/viz/Citibike_CH/CityBikeData)
 
 ### Tableau Story Points:
 
